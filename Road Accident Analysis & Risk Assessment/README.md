@@ -139,13 +139,13 @@ The project demonstrates strong skills in:
 - Analytical thinking
 
 ---
-##Author
+
+## Author
 
 Sudharsan Raamakrishnan
 ---
 ## 📬 Contact
 
-For any queries or collaboration opportunities, feel free to reach out.
 - LInkedIN: www.linkedin.com/in/sudharsanr2409
 - GitHub: https://github.com/sudharsan-003 
 ---
