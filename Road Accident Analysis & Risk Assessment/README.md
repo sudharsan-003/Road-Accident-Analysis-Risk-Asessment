@@ -122,11 +122,8 @@ This project is important because it:
 
 ## 🖼️ Dashboard Preview
 
-*(Insert your dashboard image here)*
+<img width="1269" height="724" alt="Page 1" src="https://github.com/user-attachments/assets/9e6a0fee-53d5-432f-bf51-23aeb61444cb" />
 
-Example:
-
-![Dashboard Screenshot](dashboard_image.png)
 
 ---
 
@@ -142,9 +139,13 @@ The project demonstrates strong skills in:
 - Analytical thinking
 
 ---
+##Author
 
+Sudharsan Raamakrishnan
+---
 ## 📬 Contact
 
 For any queries or collaboration opportunities, feel free to reach out.
-
+- LInkedIN: www.linkedin.com/in/sudharsanr2409
+- GitHub: https://github.com/sudharsan-003 
 ---
